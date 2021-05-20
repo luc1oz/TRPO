@@ -3,7 +3,7 @@ name: User story template
 about: Напишите короткую формулировку намерения, описывающую то, что система должна
   делать для пользователя.
 title: ''
-labels: ТРПО
+labels: User Story
 assignees: luc1oz
 
 ---
